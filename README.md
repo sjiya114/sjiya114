@@ -6,9 +6,7 @@ Welcome to my GitHub profile.
 
 - 🌟 MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 🧑‍💻 Passionate about building scalable web applications and modern user experiences
-- 🌱 Currently learning: [Add your current learning focus]
 - 💬 Ask me about: MERN stack, JavaScript, REST APIs, or web development in general
-- 📫 How to reach me: [Your email or social links]
 
 ## 🔧 Technologies & Tools
 
